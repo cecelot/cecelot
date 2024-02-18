@@ -1,5 +1,7 @@
 ### hi! 👋🏻
 
+I'm a student with a passion for coding, with a particular interest in programming languages and operating systems.
+
 some things about me:
 
 - 🔭 I’m currently working on:
