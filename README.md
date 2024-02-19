@@ -3,7 +3,7 @@
 I'm a student with a passion for coding, with a particular interest in programming languages and operating systems.
 
 - 🔭 I’m currently working on:
-  - [Kyanite](https://github.com/alythical/kyanite), a toy programming language to learn more about PLs
+  - [Kyanite](https://github.com/alythical/kyanite), a toy compiled programming language to learn more about PLs
 - 🌱 I’m currently learning [Julia](https://julialang.org)
 <!--
 - 👯 I’m looking to collaborate on ...
