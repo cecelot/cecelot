@@ -1,10 +1,9 @@
 ### Hi, I'm Alaina! 👋🏻
 
-I'm a first-year student at Worcester Polytechnic Institute majoring in Computer Science, with a particular interest in programming languages and operating systems.
+Explore my [/about](https://alainacn.dev/about) page to learn all about me and my interests!
 
-- 🔭 I’m currently working on:
-  - [Olly](https://github.com/alythical/olly), a game client and server for the two-player strategy board game, [Othello](https://en.wikipedia.org/wiki/Reversi)
-  - [alainacn.dev](https://github.com/alythical/alainacn.dev), my personal website where I write about tech and anything else that interests me
-  - **previous work**:
-      - [kyanite](https://github.com/alythical/kyanite), a toy compiled programming language
-- 🌱 I’m currently learning [Julia](https://julialang.org), and I'm interested in learning functional languages like [Haskell](https://haskell.org)
+If you're interested in my current & prior work and some backstory, I'd love to introduce you to my [/projects](https://alainacn.dev/projects) page, or dive into my pinned repositories below.
+
+I publish my writing online [here](https://alainacn.dev), and I also maintain an [/archive](https://alainacn.dev/archive) for everything I post.
+
+I'm currently interested in learning functional languages like [Haskell](https://haskell.org).
