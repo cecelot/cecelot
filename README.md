@@ -10,4 +10,4 @@ I've spent most of my remaining time in the web development space, with my two m
 
 I'm currently interested in learning functional languages like [Haskell](https://haskell.org).
 
-### 🏳️‍⚧️
+🏳️‍⚧️
