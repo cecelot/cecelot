@@ -9,3 +9,5 @@ I've spent most of my remaining time in the web development space, with my two m
 - [Olly](https://github.com/cecelot/olly), a game client & server for [Othello](https://en.wikipedia.org/wiki/Reversi#Othello).
 
 I'm currently interested in learning functional languages like [Haskell](https://haskell.org).
+
+### 🏳️‍⚧️
