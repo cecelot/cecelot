@@ -1,6 +1,6 @@
 ### Hi, I'm Sydney! 👋🏻
 
-I'm a first-year student at [Worcester Polytechnic Institute](https://wpi.edu) majoring in Computer Science, interested in working to engineer a new generation of sustainable software for an increasingly digital era.
+I'm a first-year student at [Worcester Polytechnic Institute](https://wpi.edu) majoring in Computer Science, interested in developing sustainable software solutions for our digital future.
 
 Alongside this, I have a fascination with all things programming languages and even wrote [a simple compiler](https://github.com/cecelot/kyanite) ([high-level retrospective](https://sydneyn.dev/p/writing-a-compiler)) to learn more about how they work.
 
