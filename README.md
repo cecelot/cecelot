@@ -16,11 +16,11 @@ I'm currently interested in learning functional languages like [Haskell](https:/
 
 <picture>
   <source
-    srcset="https://github-readme-stats.sydneyn.dev/api/top-langs?layout=compact&username=cecelot&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true&hide=xml"
+    srcset="https://github-readme-stats.sydneyn.dev/api/top-langs?layout=compact&username=cecelot&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true&hide=xml&exclude_repo=digital-garden"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-readme-stats.sydneyn.dev/api/top-langs?layout=compact&username=cecelot&title_color=0969da&icon_color=0969da&text_color=000000&bg_color=ffffff&border_color=d0d7de&show_icons=true&count_private=true&show_all_commits=true&hide=xml"
+    src="https://github-readme-stats.sydneyn.dev/api/top-langs?layout=compact&username=cecelot&title_color=0969da&icon_color=0969da&text_color=000000&bg_color=ffffff&border_color=d0d7de&show_icons=true&count_private=true&show_all_commits=true&hide=xml&exclude_repo=digital-garden"
     alt="Sydney's most used languages"
   />
 </picture>
